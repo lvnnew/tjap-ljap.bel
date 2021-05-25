@@ -609,6 +609,7 @@ footer span a:hover {
     background: url(./images/banner-mob.jpg) no-repeat right;
   }
   .max-width {
+    overflow: hidden;
     width: 95%;
     display: block;
     padding: 0 20px;
