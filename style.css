@@ -605,6 +605,9 @@ footer span a:hover {
   }
 }
 @media (max-width: 690px) {
+  .home {
+    background: url(./images/banner-mob.jpg) no-repeat right;
+  }
   .max-width {
     width: 95%;
     display: block;
