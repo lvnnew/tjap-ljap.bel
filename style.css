@@ -606,19 +606,22 @@ footer span a:hover {
 }
 @media (max-width: 690px) {
   .max-width {
-    padding: 0 23px;
+    padding: 0 10px;
   }
   .home .home-content .text-2 {
-    font-size: 60px;
+    font-size: 25px;
   }
   .home .home-content .text-3 {
-    font-size: 32px;
+    font-size: 18px;
   }
-  .home .home-content a {
-    font-size: 20px;
+  .home .home-content .text-3 {
+    font-size: 16px;
   }
   .services .serv-content .card {
     width: 100%;
+  }
+  .teams .carousel .card .text {
+    font-size: 18px;
   }
 }
 @media (max-width: 600px) {
