@@ -614,7 +614,7 @@ footer span a:hover {
     padding: 0 20px;
   }
   .home .home-content .text-2 {
-    font-size: 45px;
+    font-size: 35px;
   }
   .home .home-content .text-3 {
     font-size: 20px;
@@ -631,7 +631,7 @@ footer span a:hover {
 }
 @media (max-width: 600px) {
   .home .home-content .text-2 {
-    font-size: 45px;
+    font-size: 35px;
   }
   .home .home-content .text-3 {
     font-size: 20px;
